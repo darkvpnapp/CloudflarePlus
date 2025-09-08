@@ -18,3 +18,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Fast
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA
