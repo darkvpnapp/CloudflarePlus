@@ -7,6 +7,7 @@ vless://e390c1ee-dffd-4a5d-82f5-a4a9a8ee4e80@151.101.3.8:80?mode=packet-up&path=
 vless://14835a6a-5fe3-4ee7-bd69-072dc986c691@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20ProxyCloud
 trojan://R8ufkVqwRZAgtwjyrA@ee-1.kamediorg.com:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
 vless://01998b7e-e7ff-3fca-bdfe-fc6d674ff248@107.172.167.194:443?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%91%91%20Cloudflare
 trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.213:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&fp=chrome&type=ws&sni=What.The.Fxxk.cloudns.org#%E2%98%81%EF%B8%8F%20Cloudflare%20W
