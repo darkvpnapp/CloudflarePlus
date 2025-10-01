@@ -1,4 +1,5 @@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud
+vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?type=tcp&encryption=none&security=none#Beny
 vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#%F0%9F%91%91%F0%9F%94%A5%20Warp
 vless://01999036-500a-f27f-ee32-ee78844f2e4d@139.28.221.213:48004?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%94%A5%20Warp
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@104.25.174.46:80?path=%252F%253Fed%253D2048&security=none&encryption=none&host=snippets.jhb.edu.kg&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Cloudflare
