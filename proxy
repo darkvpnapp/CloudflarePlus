@@ -1,4 +1,5 @@
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%E2%98%81%EF%B8%8F%20Cloudflare%20Warp
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%C2%A9%EF%B8%8F%20Cloudflare
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%F0%9F%91%91%20Cloudflare
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%F0%9F%94%A5%20Cloudflare
