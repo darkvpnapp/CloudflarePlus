@@ -33,3 +33,4 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&header
 trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan
 trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan
+vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.18.110.255:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Freedom32.Pages.DEV#%F0%9F%94%A5%20Cloudflare
