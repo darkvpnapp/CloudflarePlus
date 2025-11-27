@@ -25,6 +25,7 @@ vless://8fcf07a3-a8ed-446b-acf5-2bb9ade31318@www.speedtest.net:2083?path=%2F---G
 vless://405ec164-7923-4d76-8be5-7ae96e444f4e@62.60.246.188:443?security=reality&encryption=none&pbk=o3H8CUivdt6lbFH6S7CQZ6dua7nUg5rYtPdSyXpjpx0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=6104c5e9613ea56c#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.7.35:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://a96d28ab-5018-4604-8fd6-2273f0eccaa4@104.17.147.22:443?mode=auto&path=%2F---%40ZEDMODEON%2F---%40ZEDMODEON%2F---%40ZEDMODEON%2F---%40ZEDMODEON%2F---%40ZEDMODEON%2F---%40ZEDMODEON&security=tls&alpn=h2&encryption=none&host=zedmodeon.snapp-digikala.workers.dev&type=xhttp&sni=zedmodeon.snapp-digikala.workers.dev#%F0%9F%87%AB%F0%9F%87%B7%20France
 # The Netherlands
 vless://d7fbe279896e40118c23d15fe537dddd@213.176.16.74:443?security=reality&encryption=none&pbk=XNL_xB1Spd09CQQQGnjeMPPK6_tPnFuYI_nLKk3EiWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.19.106.68:2096?path=%2FTelegram%20%40%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
