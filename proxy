@@ -49,6 +49,7 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?mode=gun&security=
 vless://953bcea6-dd81-4c9a-a20a-053805f48195@ru.ufavpn.ru:9443?path=%2Fupdate&security=tls&encryption=none&type=ws&sni=ger.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 # Italy
 vless://08b833ee-fc0c-4ca1-9a09-be99c42f2f29@5.59.249.67:54441?security=reality&encryption=none&pbk=a3c7kvWAW2BPh3uTTqaNCY1bLN5zcfVYz5HhXxfZlic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=a0.awsstatic.com&sid=b62359fb#%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://c05bb475-64d2-447b-92c0-143aa6b71d1c@zula.ir:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg#%F0%9F%87%AE%F0%9F%87%B9%20Italy
 # United States
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@194.46.59.171:2080?mode=gun&security=reality&encryption=none&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&type=grpc&sni=yahoo.com&sid=722ee6b369#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 # Finland
