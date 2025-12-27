@@ -3,3 +3,4 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?encryption=none
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.244.15:443?encryption=none&type=grpc&security=none#ProxyCloud
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?encryption=none&type=ws&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=8j3f7HD37h.PaGES.dEV#ProxyCloud
 vless://493d5565-9c06-4d2f-a252-cbd9d2be3516@ll2.takovpn.ru:8443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=GacPaW0DxNTA8vpoEv7CpGBAu_atzYMBaryAuwcw70M&sni=sun6-20.userapi.com&sid=6698#ProxyCloud
+trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=%2Ftrojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#ProxyCloud
